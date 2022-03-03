@@ -1,4 +1,4 @@
-# Scatter Plot using HTML5 Canvas & Vanilla JS
+# Scatter Chart using HTML5 Canvas & Vanilla JS
 
 # [LIVE](https://shararnur.github.io/scatter-chart-htm5-canvas/)
 
