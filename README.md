@@ -6,4 +6,4 @@ A scatter plot (scatter chart, scatter graph) uses dots to represent values for 
 
 ### Technology
 - HTML5 Canvas
-- JavaScript
+- Vanilla JavaScript
